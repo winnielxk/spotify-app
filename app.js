@@ -1,4 +1,4 @@
-var redirect_uri = "http://127.0.0.1:5501/";
+var redirect_uri = "https://winniesspotify.com/";
 var client_id = '3629edd575284d0aa6671c69ae8fb3d3';
 var client_secret = 'c086865ccb2b49718e078e6dab0c6a0b';
 var access_token = null;
